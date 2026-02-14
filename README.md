@@ -2,6 +2,10 @@
 
 <p align="center"><img src="images/jeo_logo_1994.jpg" alt="Jeopardy! Logo" /></p>
 
+**Download the latest version here: https://github.com/jwolle1/jeopardy_clue_dataset/releases/tag/v41**
+
+---
+
 This dataset contains _Jeopardy!_ clues from Season 1 through Season 41 (July 2025). It does not contain every clue that has appeared on the show. The data source prefers not to be credited.
 
 There are 538,845 clues in total. Most of them can be found in `combined_season1-41.tsv`. There are individual files for each season, located in the `seasons` folder.
@@ -40,7 +44,7 @@ A file with contestant scoring data can be found in the `other_data` folder. The
 
 > How do I download the dataset?
 
-If you're new to Github and aren't sure what's going on, click the green `Code` button near the top of the page, then click `Download ZIP`.
+The latest version of the dataset is linked at the top of this page. Find older versions in the `Releases` section.
 
 > What is a `.TSV` file?
 
